@@ -2,9 +2,9 @@
 
 A simple React (Vite) app deployed to AWS Amplify Hosting.
 
-- Name: Siddharth Nambiar
-- Batch: S5
-- Roll No: 42171
+- Name: Pranav Bakane
+- Batch: P7
+- Roll No: 42312
 
 ## Run locally
 

@@ -1,8 +1,8 @@
 function App() {
   const student = {
-    name: 'Siddharth Nambiar',
-    rollNo: '42171',
-    batch: 'S5',
+    name: 'Pranav Bakane',
+    rollNo: '42312',
+    batch: 'P7',
   }
 
   return (
